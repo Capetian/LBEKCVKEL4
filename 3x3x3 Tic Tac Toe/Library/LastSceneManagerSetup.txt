@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/3x3x3 Tic Tac Toe.unity
+  isLoaded: 1
+  isActive: 1
